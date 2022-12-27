@@ -42,6 +42,5 @@ https://github.com/Ileriayo/markdown-badges
 </div>
 
 
-
-<img src="https://user-images.githubusercontent.com/56365809/209681626-180c2ff7-3cdf-4dd4-82eb-58aca53f68d3.png" />
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/29425781/154565641-d52e2a87-7a1b-4323-a9c0-57a853ca06ef.png"><img src="https://user-images.githubusercontent.com/29425781/154565641-d52e2a87-7a1b-4323-a9c0-57a853ca06ef.png" alt="wave" style="max-width: 100%;"></a></p>
 
