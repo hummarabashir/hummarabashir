@@ -42,5 +42,5 @@ https://github.com/Ileriayo/markdown-badges
 </div>
 
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/29425781/154565641-d52e2a87-7a1b-4323-a9c0-57a853ca06ef.png"><img src="https://user-images.githubusercontent.com/29425781/154565641-d52e2a87-7a1b-4323-a9c0-57a853ca06ef.png" alt="wave" style="max-width: 100%;"></a></p>
+<!-- <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/29425781/154565641-d52e2a87-7a1b-4323-a9c0-57a853ca06ef.png"><img src="https://user-images.githubusercontent.com/29425781/154565641-d52e2a87-7a1b-4323-a9c0-57a853ca06ef.png" alt="wave" style="max-width: 100%;"></a></p> -->
 
