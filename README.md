@@ -33,8 +33,8 @@ https://github.com/Ileriayo/markdown-badges
 <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://camo.githubusercontent.com/3186a7b7f2aa9c51f64e7f5214542281e6865bbea8f1f54b470ac30ad38328e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f7572736572612d2532333030353644322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d436f757273657261266c6f676f436f6c6f723d7768697465" alt="Coursera" data-canonical-src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&amp;logo=Coursera&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://camo.githubusercontent.com/9df883a0044327811502d49027e8bdcce09f89266caef16cbaeaf7cf96659977/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f646570656e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d636f646570656e266c6f676f436f6c6f723d7768697465" alt="CodePen" data-canonical-src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&amp;logo=codepen&amp;logoColor=white" style="max-width: 100%;"></a>
 
-<br/>
-<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)" alt="Microsoft Learn" data-canonical-src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&amp;logo=codepen&amp;logoColor=white" style="max-width: 100%;"></a>
+<!-- <br/>
+<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)" alt="Microsoft Learn" data-canonical-src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&amp;logo=codepen&amp;logoColor=white" style="max-width: 100%;"></a> -->
 
 <br/>
 <div align="center">
