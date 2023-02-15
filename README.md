@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="mailto:hummarabashir@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="mlamchamkee" /></a>
+<a href="https://linkedin.com/in/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="hummarabashir" /></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" src="https://camo.githubusercontent.com/e0cdc2246c76ab40455067c7d3a6bc862d607f48c4faf8c1dd5e0c86aefd3859/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426568616e63652d3137363966663f7374796c653d666f722d7468652d6261646765266c6f676f3d626568616e6365266c6f676f436f6c6f723d7768697465" alt="Behance" data-canonical-src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&amp;logo=behance&amp;logoColor=white"></a>
     <a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" src="https://camo.githubusercontent.com/031158fe406368e77048939080cdd7894ea1e98b230681dffa5c9b081e507194/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d3132313030453f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" alt="Medium" data-canonical-src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white"></a>
 </div>
@@ -31,7 +31,7 @@
 
 <p>&nbsp;</p> 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=hummarabashir&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mlamchamkee" /> 
+  <img src="https://komarev.com/ghpvc/?username=hummarabashir&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="HB's Profile Views" /> 
 </p>
 <p align="center">
 <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://camo.githubusercontent.com/2500e7254bddd53d40d5bfd313d463d5cdff3c29f5bf254d9d7e6a681674fb5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4861636b657272616e6b2d3245433836363f7374796c653d666f722d7468652d6261646765266c6f676f3d4861636b657252616e6b266c6f676f436f6c6f723d7768697465" alt="Hackerrank" data-canonical-src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&amp;logo=HackerRank&amp;logoColor=white"></a>
