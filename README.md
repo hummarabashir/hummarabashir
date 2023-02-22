@@ -25,7 +25,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,aws,dotnet,webpack,figma,xd,illustrator,vscode" height="30"/>
+    <img src="https://skillicons.dev/icons?i=github,aws,dotnet,webpack,figma,xd,illustrator,vscode,gatsby" height="30"/>
   </a>
 </p>
 
