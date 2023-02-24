@@ -14,19 +14,13 @@
 
 <h3 align="center">Skills:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,php,gulp,pug,wordpress" height="30"/>
-  </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,graphql,materialui,jquery,mysql,nodejs,netlify,sass,styledcomponents,jest" height="30"/>
-  </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,aws,dotnet,webpack,figma,xd,illustrator,vscode,gatsby" height="30"/>
-  </a>
 </p>
 
 <p>&nbsp;</p> 
