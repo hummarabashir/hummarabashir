@@ -49,6 +49,7 @@
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=hummarabashir&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hummarabashir&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hummarabashir&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://git.io/streak-stats)</a>
 </details>
 
 
@@ -56,9 +57,5 @@
 **hummarabashir/hummarabashir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github.com/Ileriayo/markdown-badges
 -->
-
-
-
-
 
 
