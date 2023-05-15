@@ -13,7 +13,7 @@
 
 <h3 align="center">Skills:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,php,gulp,pug,wordpress" height="30"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,php,gulp,pug,wordpress,tailwind" height="30"/>
 </p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=react,graphql,materialui,jquery,mysql,nodejs,netlify,sass,styledcomponents,jest" height="30"/>
