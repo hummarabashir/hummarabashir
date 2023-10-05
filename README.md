@@ -1,5 +1,5 @@
 ### hello <del>world</del> !! (＾◡＾) (✿◠‿◠) シ ᓚᘏᗢ 
-<h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Hummara</h1>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>👋 Hi there! I'm Hummara</h1>
 <h3 align="center">Software Engineer || (Builder && Problem-solver)</h3>
 
 <h3 align="center">Connect with me:</h3>
@@ -52,7 +52,7 @@
 </details> -->
 
 <details>
-    <summary>Github Stats</summary>
+    <summary>📊 Github Stats</summary>
     <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -70,7 +70,15 @@
 </tr>
 </table>
 </details>
-
+<details>
+ <summary>🏆 Github Profile Trophy</summary>
+ </br>
+ <p align="center">
+  <a href="https://github.com/hummarabashir">
+   <img src="https://github-profile-trophy.vercel.app/?username=hummarabashir&column=5&theme=darkhub"/>
+  </a>
+ </p>
+</details>
 
 <!--
 **hummarabashir/hummarabashir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
