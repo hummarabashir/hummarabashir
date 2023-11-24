@@ -1,5 +1,5 @@
 ### hello <del>world</del> !! (＾◡＾) (✿◠‿◠) シ ᓚᘏᗢ 
-<h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>👋 Hi there! I'm Hummara</h1>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Hummara</h1>
 <h3 align="center">Software Engineer || (Builder && Problem-solver)</h3>
 
 <h3 align="center">Connect with me:</h3>
