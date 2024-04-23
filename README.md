@@ -37,12 +37,12 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://img.shields.io/badge/TripleByte-258ffa?style=for-the-badge&logo=triplebyte&logoColor=white" alt="TripleByte"/></a>
 </p>
 <br/>
-<div align="center">
+<!-- <div align="center">
 <h4 align="center">if you like what i do, maybe consider buying me a coffee !!</h4>
 <p>
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buymeacoffee.com/hummarabashir"><img src="https://camo.githubusercontent.com/05fbf7164544b280f6c2aed38dbecfbbc4c412fbffdc0668ee3cd0ee9c78194a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4275792532304d6525323061253230436f666665652d6666646430303f7374796c653d666f722d7468652d6261646765266c6f676f3d6275792d6d652d612d636f66666565266c6f676f436f6c6f723d626c61636b" alt="BuyMeACoffee" data-canonical-src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&amp;logo=buy-me-a-coffee&amp;logoColor=black" style="max-width: 100%;"></a>
 </p>
-</div>
+</div> -->
 <!-- <details>
   <summary>Github Stats ⚡</summary>
 
