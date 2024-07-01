@@ -4,39 +4,28 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-    <a href="mailto:hummarabashir@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://linkedin.com/in/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="hummarabashir" /></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" src="https://camo.githubusercontent.com/e0cdc2246c76ab40455067c7d3a6bc862d607f48c4faf8c1dd5e0c86aefd3859/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426568616e63652d3137363966663f7374796c653d666f722d7468652d6261646765266c6f676f3d626568616e6365266c6f676f436f6c6f723d7768697465" alt="Behance" data-canonical-src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&amp;logo=behance&amp;logoColor=white"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" src="https://camo.githubusercontent.com/031158fe406368e77048939080cdd7894ea1e98b230681dffa5c9b081e507194/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d3132313030453f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" alt="Medium" data-canonical-src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white"></a>
+    <a href="mailto:hummarabashir@gmail.com" target="blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23e4626b.svg?style=for-the-badge&logo=Gmail&logoColor=ffffff" /></a>
+    <a href="https://linkedin.com/in/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=ffffff" /></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href=""><img alt="Behance" src="https://img.shields.io/badge/behance-%23f2ca61.svg?style=for-the-badge&logo=behance&logoColor=140200"/></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href=""><img alt="Medium" src="https://img.shields.io/badge/medium-%23ffd2ce.svg?style=for-the-badge&logo=medium&logoColor=140200" /></a>
 </div>
 
 
 <h3 align="center">Skills:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,php,gulp,pug,wordpress,tailwind" height="30"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,php,gulp,pug,wordpress,tailwind,firebase" height="30"/>
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,graphql,materialui,jquery,mysql,nodejs,netlify,sass,styledcomponents,jest" height="30"/>
+    <img src="https://skillicons.dev/icons?i=react,graphql,materialui,jquery,mysql,nodejs,netlify,sass,styledcomponents,jest,postman" height="30"/>
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=github,aws,dotnet,webpack,figma,xd,illustrator,vscode,gatsby" height="30"/>
+    <img src="https://skillicons.dev/icons?i=github,dotnet,webpack,figma,xd,illustrator,vscode,gatsby,electron,netlify" height="30"/>
+    <!-- graphql -->
 </p>
-
 <p>&nbsp;</p> 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=hummarabashir&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="HB's Profile Views" /> 
 </p>
-<p align="center">
-    <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://camo.githubusercontent.com/2500e7254bddd53d40d5bfd313d463d5cdff3c29f5bf254d9d7e6a681674fb5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4861636b657272616e6b2d3245433836363f7374796c653d666f722d7468652d6261646765266c6f676f3d4861636b657252616e6b266c6f676f436f6c6f723d7768697465" alt="Hackerrank" data-canonical-src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&amp;logo=HackerRank&amp;logoColor=white"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://camo.githubusercontent.com/3186a7b7f2aa9c51f64e7f5214542281e6865bbea8f1f54b470ac30ad38328e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f7572736572612d2532333030353644322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d436f757273657261266c6f676f436f6c6f723d7768697465" alt="Coursera" data-canonical-src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&amp;logo=Coursera&amp;logoColor=white"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)" alt="Microsoft Learn" data-canonical-src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&amp;logo=codepen&amp;logoColor=white"></a>
-</p>
-<p align="center">
-  <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://img.shields.io/badge/LinkedIn_Learning-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Learning"/></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://img.shields.io/badge/TripleByte-258ffa?style=for-the-badge&logo=triplebyte&logoColor=white" alt="TripleByte"/></a>
-</p>
-<br/>
 <!-- <div align="center">
 <h4 align="center">if you like what i do, maybe consider buying me a coffee !!</h4>
 <p>
@@ -50,7 +39,18 @@
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hummarabashir&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   <a href="#">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hummarabashir&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://git.io/streak-stats)</a> 
 </details> -->
-
+   ## My favourite projects
+   <br/>
+<p align="center">
+  <img width="400" src="https://github.com/hummarabashir/hummarabashir/assets/56365809/655cdd83-3cb9-4a79-9c43-5eb43cfedc0f" />
+  <img width="400" src="https://github.com/hummarabashir/hummarabashir/assets/56365809/55e6e7d0-8523-41b1-a9c4-8f14d25de81e" />
+    <a href="https://github.com/hummarabashir/ebrary-readoftheday">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=hummarabashir&repo=ebrary-readoftheday&bg_color=fdffe4&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
+</a>
+  <a href="https://github.com/hummarabashir/readaroo">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=hummarabashir&repo=readaroo&bg_color=ffedf6&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
+</a>
+</p>
 <details>
     <summary>📊 Github Stats</summary>
     <table align="center">
@@ -70,7 +70,7 @@
 </tr>
 </table>
 </details>
-<details>
+<!-- <details>
  <summary>🏆 Github Profile Trophy</summary>
  </br>
  <p align="center">
@@ -78,7 +78,7 @@
    <img src="https://github-profile-trophy.vercel.app/?username=hummarabashir&column=5&theme=darkhub"/>
   </a>
  </p>
-</details>
+</details> -->
 
 <!--
 **hummarabashir/hummarabashir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
