@@ -53,6 +53,7 @@
 </p>
 <details>
     <summary>📊 Github Stats</summary>
+    <br/>
     <table align="center">
 <tr border="none">
 <td width="50%" align="center">
