@@ -50,6 +50,17 @@
   <a href="https://github.com/hummarabashir/readaroo">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=hummarabashir&repo=readaroo&bg_color=ffedf6&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
 </a>
+  <img width="400" src="https://github.com/user-attachments/assets/98be3c18-2f31-45f4-8187-b2b68f5bcbad" />
+
+
+
+  <img width="400" src="https://github.com/hummarabashir/graphQL-foursquareAPI-halalspots/blob/main/LandingPage.png" />
+  <a href="https://github.com/hummarabashir/Top-Pakistanis">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=hummarabashir&repo=Top-Pakistanis&bg_color=ecfef5&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
+</a>
+<a href="https://github.com/hummarabashir/graphQL-foursquareAPI-halalspots">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=hummarabashir&repo=graphQL-foursquareAPI-halalspots&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
+</a>
 </p>
 <details>
     <summary>📊 Github Stats</summary>
