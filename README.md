@@ -1,6 +1,9 @@
 ### hello <del>world</del> !! (＾◡＾) (✿◠‿◠) シ ᓚᘏᗢ 
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Hummara</h1>
-<h3 align="center">Software Engineer || (Builder && Problem-solver)</h3>
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer%20+||+(Builder%20%26%26%20Problem-solver);Web%20|%20Mobile%20|%20Desktop%20|%20App%20Developer;&center=true&width=600&height=50">
+</p>
+<!--<h3 align="center">Software Engineer || (Builder && Problem-solver)</h3> -->
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
