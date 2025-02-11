@@ -7,9 +7,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-    <a href="mailto:hummarabashir@gmail.com" target="blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23e4626b.svg?style=for-the-badge&logo=Gmail&logoColor=ffffff" /></a>
     <a href="https://linkedin.com/in/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=ffffff" /></a>
     <a target="_blank" rel="noopener noreferrer nofollow" href=""><img alt="Behance" src="https://img.shields.io/badge/behance-%23f2ca61.svg?style=for-the-badge&logo=behance&logoColor=140200"/></a>
+    <a href="" target="blank"><img alt="CodePen" src="https://img.shields.io/badge/codepen-%23e4626b.svg?style=for-the-badge&logo=codepen&logoColor=ffffff" /></a>
     <a target="_blank" rel="noopener noreferrer nofollow" href=""><img alt="Medium" src="https://img.shields.io/badge/medium-%23ffd2ce.svg?style=for-the-badge&logo=medium&logoColor=140200" /></a>
 </div>
 
